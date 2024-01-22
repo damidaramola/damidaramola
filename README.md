@@ -1,5 +1,5 @@
 <h1 align="left">Hi, my name is Dami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
-![Welcome to Dami’s Github (1)](https://github.com/damidaramola/damidaramola/assets/110638513/fc6ee721-20a7-40c4-a2b5-37b3f672d120)
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/110638513/298581332-fc6ee721-20a7-40c4-a2b5-37b3f672d120.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240122T122516Z&X-Amz-Expires=300&X-Amz-Signature=1bf3ed57f5809cd46b13da3f267596100df4bad5001d4111fa53628d9810510d&X-Amz-SignedHeaders=host&actor_id=110638513&key_id=0&repo_id=746405535" alt="Here is a little bit about me!">
 <h3 align="left">I'm an aspiring software engineer from Dublin!</h3>
 
 - 🌱 I’m currently learning **Linux, Unix and SQL**
