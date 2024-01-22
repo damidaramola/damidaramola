@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for a **graduate/junior software engineering role**
 
-- 📫 How to reach me **linkedin https://www.linkedin.com/in/dami-daramola/**
+- 📫 Reach me on **linkedin! https://www.linkedin.com/in/dami-daramola/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
