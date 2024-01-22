@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, my name is Dami</h1>
-<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding laptop">
+<h1 align="left">Hi, my name is Dami <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"></h1>
+![Welcome to Dami’s Github (1)](https://github.com/damidaramola/damidaramola/assets/110638513/fc6ee721-20a7-40c4-a2b5-37b3f672d120)
 <h3 align="left">I'm an aspiring software engineer from Dublin!</h3>
 
 - 🌱 I’m currently learning **Linux, Unix and SQL**
