@@ -1,4 +1,5 @@
 <h1 align="left">Hi 👋, my name is Dami</h1>
+<img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" alt="coding laptop">
 <h3 align="left">I'm an aspiring software engineer from Dublin!</h3>
 
 - 🌱 I’m currently learning **Linux, Unix and SQL**
