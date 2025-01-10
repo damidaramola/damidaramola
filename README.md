@@ -8,8 +8,6 @@
   
 - 👨‍💻 I’m looking to participate in **hackathons**
 
-- 🤝 I’m looking for a **graduate/junior software engineering role**
-
 - 📫 Reach me on **linkedin! https://www.linkedin.com/in/dami-daramola/**
 
 <h3 align="left">Connect with me:</h3>
