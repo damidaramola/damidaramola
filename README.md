@@ -4,7 +4,7 @@
 
 
   
-- ⚡ I am a Microsoft student ambassador [Ambassador profile](https://mvp.microsoft.com/en-US/studentambassadors/profile/3c179e1d-3437-467f-9587-3d0946eabccf)
+- ⚡ I am an Apple Software Engineer!
   
 - 👨‍💻 I’m looking to participate in **hackathons**
 
