@@ -6,7 +6,7 @@
   
 - ⚡ I am an Apple Software Engineer!
   
-- 👨‍💻 I’m looking to participate in **hackathons**
+- 👨‍💻 I like building stuff!
 
 - 📫 Reach me on **linkedin! https://www.linkedin.com/in/dami-daramola/**
 
